@@ -1,15 +1,15 @@
-## Object Oriented Music Player
+# Object Oriented Music Player
 ###### with optional loading of images during songs
 -------------------
 <br/>
 
-### Parts:
+## Parts:
 * Arduino MEGA 2560
 * Any buzzer
 * A [2.8'' TFT LCD shield w/Cap Touch and microSD](https://www.adafruit.com/product/1947) if you set `USE_IMAGERY` to 1
 (anything that works with ILI9341 should work) (touch screen isn't used)
 
-### Setup:
+## Setup:
 1. Attach the TFT to the top of the arduino
 1. Connect your buzzer
 1. Change your settings in settings.h
