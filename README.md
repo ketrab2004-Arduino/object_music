@@ -6,7 +6,7 @@
 ## Parts:
 * Arduino MEGA 2560
 (only if you have `USE_IMAGERY` set to 1, otherwise an Uno should be enough)
-* A buzzer
+* A buzzer/speaker
 * A [2.8'' TFT LCD shield w/Cap Touch and microSD](https://www.adafruit.com/product/1947) if you set `USE_IMAGERY` to 1
 (anything that works with ILI9341 should work) (touch screen isn't used)
     * But no screen is necessary if `USE_IMAGERY` is 0
