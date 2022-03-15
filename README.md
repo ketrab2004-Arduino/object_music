@@ -16,6 +16,7 @@
     * `DEBUG`: whether or not to serial print debug messages
     * `USE_IMAGERY`: whether or not to enable tft and sd usage
     * `BUZZERS`: pin of your buzzer
+    * `SD_CS`: if you have `USE_IMAGERY` set to 1 and your microSD uses a different pin/port
     * `BRIGHTNESS`: 0-255 for the backlight strength (if you have `USE_IMAGERY` set to 1)
 1. Upload images for songs to the SD (if `USE_IMAGERY` is 1)
 1. Upload the sketch
