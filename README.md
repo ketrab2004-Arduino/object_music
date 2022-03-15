@@ -1,5 +1,5 @@
 # Object Oriented Music Player
-![Image](./memorobilia/mega_on.jpeg)
+![Image](./memorabilia/mega_on.jpeg)
 ###### with optional loading of images during songs
 <br/>
 

@@ -1,4 +1,4 @@
-# Memorobilia
+# Memorabilia
 
 ## mega_on.jpeg
 ![A photo of an arduino mega2560 with a tft setup with a led and a speaker in series, with the led on.](./mega_on.jpeg)
