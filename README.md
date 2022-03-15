@@ -1,12 +1,13 @@
 # Object Oriented Music Player
+![Image](./memorobilia/mega_on.jpeg)
 ###### with optional loading of images during songs
--------------------
 <br/>
 
 ## Parts:
 * Arduino MEGA 2560
 (only if you have `USE_IMAGERY` set to 1, otherwise an Uno should be enough)
 * A buzzer/speaker
+    * Something to decrease power that goes to the buzzer/speaker if necessary (I used a LED)
 * A [2.8'' TFT LCD shield w/Cap Touch and microSD](https://www.adafruit.com/product/1947) if you set `USE_IMAGERY` to 1
 (anything that works with ILI9341 should work) (touch screen isn't used)
     * But no screen is necessary if `USE_IMAGERY` is 0
@@ -24,3 +25,5 @@
 1. Upload images for songs to the SD (if `USE_IMAGERY` is 1)
 1. Upload the sketch
 1. Enjoy the music :)
+
+[Video](https://youtu.be/i3_2w644NWw)
