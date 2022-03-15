@@ -10,7 +10,7 @@
     * Something to decrease power that goes to the buzzer/speaker if necessary (I used a LED)
 * A [2.8'' TFT LCD shield w/Cap Touch and microSD](https://www.adafruit.com/product/1947) if you set `USE_IMAGERY` to 1
 (anything that works with ILI9341 should work) (touch screen isn't used)
-    * But no screen is necessary if `USE_IMAGERY` is 0
+    * No screen is necessary if `USE_IMAGERY` is 0
 
 ## Setup:
 1. Attach the TFT to the top of the arduino
